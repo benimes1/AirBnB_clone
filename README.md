@@ -80,5 +80,5 @@ Command | Description
 
 ## Authors
 
-* **Aschalew Mathewos** - Github: [AschalewMathewos](https://github.com/AschalewMathewos)
-* **Ermias Bahru** - Github: [ErmiasBahru](https://github.com/ErmiasBahru)
+* **Biniyam Meskele** - Github: [BiniyamMeskele](https://github.com/benimes1)
+
